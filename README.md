@@ -31,10 +31,10 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![4](https://github.com/Manisrii21/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147140163/bfc3be32-75aa-4cca-9cac-645a16ee306c)
+![WhatsApp Image 2024-10-16 at 1 07 31 PM](https://github.com/user-attachments/assets/34adf19d-8bed-493f-ab34-3e9737af359c)
 
 ### Output:
-![04](https://github.com/Manisrii21/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147140163/6a20d0e9-fb8b-443b-bd43-c363f5da852a)
+![Screenshot 2024-10-16 142141](https://github.com/user-attachments/assets/33c0fcf9-de00-4756-931a-9a84ddd74f6b)
 
 
 ### Name: NARRA AKHIL
